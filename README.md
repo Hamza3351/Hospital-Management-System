@@ -40,7 +40,7 @@ The system was tested using the NUnit framework, covering:
 - SQL Server (for database management)
 
 ### Steps:
-- Clone the repository:
+- Clone the repository **OR** Download the zip:
 ```
 git clone https://github.com/your-username/HospitalManagementSystem.git
 ```
