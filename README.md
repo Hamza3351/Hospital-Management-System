@@ -48,12 +48,12 @@ git clone https://github.com/your-username/HospitalManagementSystem.git
 - Configure the connection string in the application settings to point to your SQL Server.
 - Build and run the project.
 
-# 📈 Future Enhancements
+## 📈 Future Enhancements
 - Doctor & Staff Dashboards: Personalized dashboards for enhanced interaction.
 - Appointment Scheduling: AI-driven scheduling and notification system.
 - Mobile Integration: Mobile apps for patient and staff access.
 - Online Billing: Support for online payments and multi-currency options.
 
-# 🔖 Contributors
+## 🔖 Contributors
 - Muhammad Hamza (Group Leader)
 - Asad Rasheed
