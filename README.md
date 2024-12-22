@@ -55,5 +55,5 @@ git clone https://github.com/your-username/HospitalManagementSystem.git
 - Online Billing: Support for online payments and multi-currency options.
 
 # 🔖 Contributors
-1) Muhammad Hamza (Group Leader)
-2) Asad Rasheed
+- Muhammad Hamza (Group Leader)
+- Asad Rasheed
