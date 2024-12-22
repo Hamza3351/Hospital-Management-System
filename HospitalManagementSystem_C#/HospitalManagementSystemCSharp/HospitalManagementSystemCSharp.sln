@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystemCSharp", "HospitalManagementSystemCSharp\HospitalManagementSystemCSharp.csproj", "{1BB06E6B-4727-4849-AE96-60DA5D3B7D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{A0DE5C5E-890F-4992-9026-67B85A0ADFE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB06E6B-4727-4849-AE96-60DA5D3B7D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB06E6B-4727-4849-AE96-60DA5D3B7D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB06E6B-4727-4849-AE96-60DA5D3B7D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB06E6B-4727-4849-AE96-60DA5D3B7D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DE5C5E-890F-4992-9026-67B85A0ADFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DE5C5E-890F-4992-9026-67B85A0ADFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DE5C5E-890F-4992-9026-67B85A0ADFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DE5C5E-890F-4992-9026-67B85A0ADFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDCE955-98C0-4C6F-8744-51E1C89C5EC8}
+	EndGlobalSection
+EndGlobal
