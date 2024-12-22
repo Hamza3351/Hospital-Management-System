@@ -7,11 +7,11 @@ The Hospital Management System addresses the challenges of manual hospital manag
 
 
 ## 🎯 Features
-1) Patient Management: Register patients, retrieve medical histories, and manage room allocations and checkouts.
-2) Staff Management: Store and retrieve staff details, including roles, salaries, and contact information.
-3) Room Management: Track room availability and statuses (occupied, vacant, or under maintenance).
-4) Secure Checkout Process: Finalize patient discharge, update room statuses, and generate bills.
-5)Extensibility: Easy-to-extend framework for adding new modules or features.
+- Patient Management: Register patients, retrieve medical histories, and manage room allocations and checkouts.
+- Staff Management: Store and retrieve staff details, including roles, salaries, and contact information.
+- Room Management: Track room availability and statuses (occupied, vacant, or under maintenance).
+- Secure Checkout Process: Finalize patient discharge, update room statuses, and generate bills.
+- Extensibility: Easy-to-extend framework for adding new modules or features.
 
 ## 🛠️ Technologies Used
 - Frontend: Windows Forms in C#
@@ -29,15 +29,15 @@ UML Diagrams:
 ## 🧪 Testing
 The system was tested using the NUnit framework, covering:
 
-1) Login functionality validation.
-2) Patient and staff data integrity.
-3) Room availability and status updates.
-4) End-to-end checkout process.
+- Login functionality validation.
+- Patient and staff data integrity.
+- Room availability and status updates.
+- End-to-end checkout process.
 
 ## 🚀 Setup Instructions
 ### Prerequisites:
-Visual Studio (for development)
-SQL Server (for database management)
+- Visual Studio (for development)
+- SQL Server (for database management)
 
 ### Steps:
 - Clone the repository:
